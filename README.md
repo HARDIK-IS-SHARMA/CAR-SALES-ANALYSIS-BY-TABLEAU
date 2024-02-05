@@ -5,7 +5,7 @@
 
 # Problem Statement 1: KPI’s Requirement
 # The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
-# 1.	Sales Overview:
+## 1.	Sales Overview:
  •	Year-to-Date (YTD) Total Sales
  •	Year-over-Year (YOY) Growth in Total Sales
 # 2.	Average Price Analysis:
@@ -17,7 +17,7 @@
 
 
 
-# Problem Statement 2: Charts Requirement
+## Problem Statement 2: Charts Requirement
 
  1.	YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
  2.	YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
